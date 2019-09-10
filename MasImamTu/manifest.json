@@ -1,0 +1,37 @@
+{
+  "name": "MasImamTu",
+  "short_name": "MasImamTu",
+  "start_url": "https://www.masimamtu.com/",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#C51162",
+  "description": "Kumpulan tutorial, Tips Kesehatan, Informasi Terbaru, Wisata dan tips mengatur keuangan.",
+  "icons": [{
+    "src": "https://1.bp.blogspot.com/-9Z4bcIuowBU/XXdId6NbueI/AAAAAAAAL9s/n5PKVF4XrnMybdYEFVNHpKwiZsrKL21CQCLcBGAs/s1600/20190910_134949.jpg",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-lmaH-F4fF3A/XXdIdpxSTjI/AAAAAAAAL9o/dEPzmu4Gel8uCaKKmOVIQoLMdj_4es1VwCLcBGAs/s1600/20190910_135017.jpg",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-36ONgf7e39U/XXdIdm0aDwI/AAAAAAAAL9k/Mdp-yaNeYvkkmDsatAi0SnFPNtG56LBYACLcBGAs/s1600/20190910_135043.jpg",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-4sj4Lnucqgw/XXdIeRPjfEI/AAAAAAAAL9w/1OghNc-_QN4W4cMJoQgwoJ96r0wY7x0LgCLcBGAs/s1600/20190910_135107.jpg",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-MWMd_MwFX7Q/XXdIesO0zjI/AAAAAAAAL90/D3jBvrkh_lcPWUpmIVjWrW0ytBvjaMRRwCLcBGAs/s1600/20190910_135129.jpg",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-Sf69RHNjHBc/XXdIfQrrhDI/AAAAAAAAL98/mi-Mp8_UfnYZ2Z8B4Ob0zQo9NE4mTGL2ACLcBGAs/s1600/20190910_135152.jpgsizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-00_uDMZxGK4/XXdIffyXk8I/AAAAAAAAL94/5zTEvlJFxKoURv8AfUXyqKu9PisSrOKTQCLcBGAs/s1600/20190910_135212.jpg",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
