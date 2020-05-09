@@ -1,7 +1,7 @@
 {
-  "name": "Nulis.my.id",
-  "short_name": "Nulis",
-  "start_url": "https://www.nulis.my.id/",
+  "name": "Nulis Info",
+  "short_name": "Nulis Info",
+  "start_url": "https://www.nulisinfo.com/",
   "display": "standalone",
   "background_color": "#fff",
   "theme_color": "#C51162",
