@@ -1,7 +1,7 @@
 {
-  "name": "Penaku.my.id",
-  "short_name": "Penaku",
-  "start_url": "https://www.penaku.my.id/",
+  "name": "Pojok Info",
+  "short_name": "Pojok Info",
+  "start_url": "https://www.pojokinfo.com/",
   "display": "standalone",
   "background_color": "#fff",
   "theme_color": "#C51162",
